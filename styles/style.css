@@ -8,7 +8,6 @@
 
 html, body {
     height: 100vh;
-    width: 98vw;
     background-color: black;
 }
 
@@ -20,7 +19,7 @@ body {
 
 main {
     position: relative;
-    height: 100vh;
+    height: 93vh;
 }
 
 section#telefone {
